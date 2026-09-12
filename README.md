@@ -1,1 +1,1 @@
-# Data-Analytics-and-Business-Intelligence-
+# Data Analytics and Business Intelligence
